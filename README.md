@@ -1,7 +1,7 @@
 ## Clone this repository in your local machine
 
 ### Install & Run Tests Locally 
-	npm init -y
+	npm install
 	npm test
 ### Output
 	
